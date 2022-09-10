@@ -1,0 +1,10 @@
+---
+title: "NewFile_GitTest"
+author: "Laurine KOMENDANCZYK"
+date: "2022-09-09"
+output: html_document
+---
+
+1
+2
+3
